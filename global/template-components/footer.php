@@ -61,19 +61,11 @@
             </div>
 
         </div>
-
-        <div class="bottomFooter" style="padding-top: 15px;">
-            <!-- <hr style="width:1920px; margin-top:0px;"> -->
-            
-            <a href="#">Mentions légales </a>
-             <a href="#">Conditions générales d'utilisation </a>
-             <a></a> GLOBE DREAMERS © Copyright 2018 <a>
-<!--
-             <a href="#">Confidentialité
-            </a>
-            <a href="#">Politique de cookies </a>
--->
-            </a> 
-        </div>
+    </div>
+    <div class="bottomFooter" style="padding-top: 15px;">
+        <a href="#">Mentions légales </a>
+        <a href="#">Conditions générales d'utilisation </a>
+        <a></a> GLOBE DREAMERS © Copyright 2018 <a>
+        </a>
     </div>
 </footer>
